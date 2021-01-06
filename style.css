@@ -1,0 +1,100 @@
+
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Lato', sans-serif;
+color: #6E6E6E;
+}
+img{
+    width: 60%;
+    padding-left: 25%;
+}
+
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
+.half-width{
+    width:50%;
+    float:left;
+}
+.primary-btn {
+    display: inline-block;
+    margin-top: 15px;
+    color: white;
+    background-color:#F76861;
+    padding: 13px 42px;
+    border-radius: 5px;
+
+    text-decoration: none;
+   
+}
+
+h1{
+    font-size: 2.5em;
+}
+.experiences {
+    width: 100%;
+    padding: 30px;
+
+    background-color:#F8F9FC;
+    overflow: hidden;
+    padding:5% 10%;
+}
+.experience-item {
+    background-color: white;
+    border-radius: 20px;
+    width: 25%;
+    padding: 15px;
+    float: left;
+    box-shadow: 10px 20px 40px #EEEFF2;
+    overflow: hidden;
+    margin-left: 10px;
+}
+.tomato-color{
+    color: #F46060;
+}
+.slight-blue{
+    color: #363958;
+}
+.gray-color{
+    color: #717389;
+}
+.cyan-color{
+    color: #363958;
+}
+.img-container{
+   
+    
+}
+.img-holder
+{
+    
+    width: 70%;
+    background-image: url('images/Group_33094_1.png');
+    margin: 100px auto;
+    background-position: center;
+    background-size: cover;
+    height: 150px;
+    border-radius: 20px;
+    overflow: hidden;
+    
+}
+.nav{
+margin-bottom: 100px;
+}
+ul{
+overflow: hidden;
+
+}
+li{
+    list-style: none;
+  float: right;
+
+}
+a{
+    text-decoration: none;
+    display: inline-block;
+    padding:10px;
+    font-weight: 700;
+}
